@@ -178,3 +178,4 @@ func systrayMenuItemSelected(id int32) {
 	default:
 	}
 }
+

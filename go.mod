@@ -1,4 +1,4 @@
-module github.com/gearboxworks/go-systray
+module github.com/mister-nemo/go-systray
 
 go 1.12
 

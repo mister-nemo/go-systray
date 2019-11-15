@@ -14,3 +14,4 @@ require (
 	github.com/skratchdot/open-golang v0.0.0-20190402232053-79abb63cd66e
 	golang.org/x/sys v0.0.0-20190624142023-c5567b49c5d0
 )
+
